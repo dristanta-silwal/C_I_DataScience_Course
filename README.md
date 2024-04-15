@@ -6,7 +6,7 @@ This is a Dash application for analyzing US domestic airline flights performance
 
 To run this application locally, follow these steps:
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine. 
 2. Install the required dependencies by running `pip install -r requirements.txt`.
 3. Run the main.py file using Python: `python main.py`.
 4. Open a web browser and navigate to `http://127.0.0.1:8050` to view the application.
